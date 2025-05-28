@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **john.an@autodesk.com**
+- 📫 How to reach me **john.an@sitemate.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
